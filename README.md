@@ -1,6 +1,6 @@
-# Test
+# TestProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3
+Used an online tutorial (https://www.youtube.com/watch?v=oa9cnWTpqP8&t=234s) to learn Angular. Initial project done with Angular 5. It has now been upgraded to Angular 8. 
 
 ## Development server
 
